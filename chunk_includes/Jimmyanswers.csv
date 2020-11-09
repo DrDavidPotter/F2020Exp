@@ -1,0 +1,145 @@
+﻿SubExp,Group,Cond1,Cond2,Condition,Context,Item,Audiostim,Stim,QUD
+jimmy,1,Neut,A1,1,1,1,1JimNeutA1.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at the upcoming party.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A1,2,1,2,1JimV1A1.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at the upcoming party.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A1,3,1,3,1JimV2A1.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at the upcoming party.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A2,4,1,4,1JimNeutA2.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at yesterday’s party.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A2,5,1,5,1JimV1A2.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at yesterday’s party.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A2,6,1,6,1JimV2A2.mp3,Jimmy is going to comfort the girl that he had accidentally insulted at yesterday’s party.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A1,1,2,7,2JimNeutA1.mp3,Sarah is going to watch the lawyer that she had argued with at tomorrow’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A1,2,2,8,2JimV1A1.mp3,Sarah is going to watch the lawyer that she had argued with at tomorrow’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A1,3,2,9,2JimV2A1.mp3,Sarah is going to watch the lawyer that she had argued with at tomorrow’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A2,4,2,10,2JimNeutA2.mp3,Sarah is going to watch the lawyer that she had argued with at yesterday’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A2,5,2,11,2JimV1A2.mp3,Sarah is going to watch the lawyer that she had argued with at yesterday’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A2,6,2,12,2JimV2A2.mp3,Sarah is going to watch the lawyer that she had argued with at yesterday’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A1,1,3,13,3JimNeutA1.mp3,Allen is going to avoid the banker that he had borrowed from at next week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A1,2,3,14,3JimV1A1.mp3,Allen is going to avoid the banker that he had borrowed from at next week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A1,3,3,15,3JimV2A1.mp3,Allen is going to avoid the banker that he had borrowed from at next week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A2,4,3,16,3JimNeutA2.mp3,Allen is going to avoid the banker that he had borrowed from at last week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A2,5,3,17,3JimV1A2.mp3,Allen is going to avoid the banker that he had borrowed from at last week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A2,6,3,18,3JimV2A2.mp3,Allen is going to avoid the banker that he had borrowed from at last week’s meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A1,1,4,19,4JimNeutA1.mp3,Jared is going to promote the secretary that he had been mean to at the next business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A1,2,4,20,4JimV1A1.mp3,Jared is going to promote the secretary that he had been mean to at the next business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A1,3,4,21,4JimV2A1.mp3,Jared is going to promote the secretary that he had been mean to at the next business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A2,4,4,22,4JimNeutA2.mp3,Jared is going to promote the secretary that he had been mean to at the last business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A2,5,4,23,4JimV1A2.mp3,Jared is going to promote the secretary that he had been mean to at the last business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A2,6,4,24,4JimV2A2.mp3,Jared is going to promote the secretary that he had been mean to at the last business meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A1,1,5,25,5JimNeutA1.mp3,Diane is going to charm the landlord that she had badmouthed at the next tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A1,2,5,26,5JimV1A1.mp3,Diane is going to charm the landlord that she had badmouthed at the next tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A1,3,5,27,5JimV2A1.mp3,Diane is going to charm the landlord that she had badmouthed at the next tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A2,4,5,28,5JimNeutA2.mp3,Diane is going to charm the landlord that she had badmouthed at the last tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A2,5,5,29,5JimV1A2.mp3,Diane is going to charm the landlord that she had badmouthed at the last tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A2,6,5,30,5JimV2A2.mp3,Diane is going to charm the landlord that she had badmouthed at the last tenants’ meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A1,1,6,31,6JimNeutA1.mp3,Karen is going to call the chef that she had complimented at next week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A1,2,6,32,6JimV1A1.mp3,Karen is going to call the chef that she had complimented at next week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A1,3,6,33,6JimV2A1.mp3,Karen is going to call the chef that she had complimented at next week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A2,4,6,34,6JimNeutA2.mp3,Karen is going to call the chef that she had complimented at last week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A2,5,6,35,6JimV1A2.mp3,Karen is going to call the chef that she had complimented at last week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A2,6,6,36,6JimV2A2.mp3,Karen is going to call the chef that she had complimented at last week’s banquet.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A1,1,7,37,7JimNeutA1.mp3,Brian is going to interview the diplomat that he had misquoted at the next UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A1,2,7,38,7JimV1A1.mp3,Brian is going to interview the diplomat that he had misquoted at the next UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A1,3,7,39,7JimV2A1.mp3,Brian is going to interview the diplomat that he had misquoted at the next UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A2,4,7,40,7JimNeutA2.mp3,Brian is going to interview the diplomat that he had misquoted at the last UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A2,5,7,41,7JimV1A2.mp3,Brian is going to interview the diplomat that he had misquoted at the last UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A2,6,7,42,7JimV2A2.mp3,Brian is going to interview the diplomat that he had misquoted at the last UN session.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A1,1,8,43,8JimNeutA1.mp3,Nancy is going to text the model that she had just hired during tomorrow’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A1,2,8,44,8JimV1A1.mp3,Nancy is going to text the model that she had just hired during tomorrow’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A1,3,8,45,8JimV2A1.mp3,Nancy is going to text the model that she had just hired during tomorrow’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A2,4,8,46,8JimNeutA2.mp3,Nancy is going to text the model that she had just hired during yesterday’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A2,5,8,47,8JimV1A2.mp3,Nancy is going to text the model that she had just hired during yesterday’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A2,6,8,48,8JimV2A2.mp3,Nancy is going to text the model that she had just hired during yesterday’s morning meeting.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A1,1,9,49,9JimNeutA1.mp3,Jerry is going to kiss the actress that he had just met at the upcoming Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A1,2,9,50,9JimV1A1.mp3,Jerry is going to kiss the actress that he had just met at the upcoming Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A1,3,9,51,9JimV2A1.mp3,Jerry is going to kiss the actress that he had just met at the upcoming Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A2,4,9,52,9JimNeutA2.mp3,Jerry is going to kiss the actress that he had just met at the last Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A2,5,9,53,9JimV1A2.mp3,Jerry is going to kiss the actress that he had just met at the last Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A2,6,9,54,9JimV2A2.mp3,Jerry is going to kiss the actress that he had just met at the last Oscars ceremony.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A1,1,10,55,10JimNeutA1.mp3,Brenda is going to overtip the waiter that she had been rude to at the next dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A1,2,10,56,10JimV1A1.mp3,Brenda is going to overtip the waiter that she had been rude to at the next dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A1,3,10,57,10JimV2A1.mp3,Brenda is going to overtip the waiter that she had been rude to at the next dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A2,4,10,58,10JimNeutA2.mp3,Brenda is going to overtip the waiter that she had been rude to at the last dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A2,5,10,59,10JimV1A2.mp3,Brenda is going to overtip the waiter that she had been rude to at the last dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A2,6,10,60,10JimV2A2.mp3,Brenda is going to overtip the waiter that she had been rude to at the last dinner out.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A1,1,11,61,11JimNeutA1.mp3,Gary is going to email the professor that he had worked for during the next summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A1,2,11,62,11JimV1A1.mp3,Gary is going to email the professor that he had worked for during the next summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A1,3,11,63,11JimV2A1.mp3,Gary is going to email the professor that he had worked for during the next summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A2,4,11,64,11JimNeutA2.mp3,Gary is going to email the professor that he had worked for during the last summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A2,5,11,65,11JimV1A2.mp3,Gary is going to email the professor that he had worked for during the last summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A2,6,11,66,11JimV2A2.mp3,Gary is going to email the professor that he had worked for during the last summer break.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A1,1,12,67,12JimNeutA1.mp3,Hazel is going to placate the critic that she had publicly slandered at the upcoming gala.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A1,2,12,68,12JimV1A1.mp3,Hazel is going to placate the critic that she had publicly slandered at the upcoming gala.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A1,3,12,69,12JimV2A1.mp3,Hazel is going to placate the critic that she had publicly slandered at the upcoming gala.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A2,4,12,70,12JimNeutA2.mp3,Hazel is going to placate the critic that she had publicly slandered at the last gala.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A2,5,12,71,12JimV1A2.mp3,Hazel is going to placate the critic that she had publicly slandered at the last gala.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A2,6,12,72,12JimV2A2.mp3,Hazel is going to placate the critic that she had publicly slandered at the last gala.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A1,1,13,73,13JimNeutA1.mp3,Chester is going to thank the janitor that he had left a mess for in the next few days.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A1,2,13,74,13JimV1A1.mp3,Chester is going to thank the janitor that he had left a mess for in the next few days.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A1,3,13,75,13JimV2A1.mp3,Chester is going to thank the janitor that he had left a mess for in the next few days.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A2,4,13,76,13JimNeutA2.mp3,Chester is going to thank the janitor that he had left a mess for in the last few days.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A2,5,13,77,13JimV1A2.mp3,Chester is going to thank the janitor that he had left a mess for in the last few days.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A2,6,13,78,13JimV2A2.mp3,Chester is going to thank the janitor that he had left a mess for in the last few days.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A1,1,14,79,14JimNeutA1.mp3,Peggy is going to applaud the actor that she had liked best in the next scene.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A1,2,14,80,14JimV1A1.mp3,Peggy is going to applaud the actor that she had liked best in the next scene.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A1,3,14,81,14JimV2A1.mp3,Peggy is going to applaud the actor that she had liked best in the next scene.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A2,4,14,82,14JimNeutA2.mp3,Peggy is going to applaud the actor that she had liked best in the last scene.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A2,5,14,83,14JimV1A2.mp3,Peggy is going to applaud the actor that she had liked best in the last scene.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A2,6,14,84,14JimV2A2.mp3,Peggy is going to applaud the actor that she had liked best in the last scene.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A1,1,15,85,15JimNeutA1.mp3,Earl is going to reprimand the student that he had warned in the next class.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A1,2,15,86,15JimV1A1.mp3,Earl is going to reprimand the student that he had warned in the next class.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A1,3,15,87,15JimV2A1.mp3,Earl is going to reprimand the student that he had warned in the next class.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A2,4,15,88,15JimNeutA2.mp3,Earl is going to reprimand the student that he had warned in the last class.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A2,5,15,89,15JimV1A2.mp3,Earl is going to reprimand the student that he had warned in the last class.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A2,6,15,90,15JimV2A2.mp3,Earl is going to reprimand the student that he had warned in the last class.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A1,1,16,91,16JimNeutA1.mp3,Amber is going to photograph the picketer that she had recognized at the next political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A1,2,16,92,16JimV1A1.mp3,Amber is going to photograph the picketer that she had recognized at the next political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A1,3,16,93,16JimV2A1.mp3,Amber is going to photograph the picketer that she had recognized at the next political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A2,4,16,94,16JimNeutA2.mp3,Amber is going to photograph the picketer that she had recognized at the last political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A2,5,16,95,16JimV1A2.mp3,Amber is going to photograph the picketer that she had recognized at the last political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A2,6,16,96,16JimV2A2.mp3,Amber is going to photograph the picketer that she had recognized at the last political rally.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A1,1,17,97,17JimNeutA1.mp3,Lois is going to compliment the set designer that she had disagreed with at the upcoming show.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A1,2,17,98,17JimV1A1.mp3,Lois is going to compliment the set designer that she had disagreed with at the upcoming show.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A1,3,17,99,17JimV2A1.mp3,Lois is going to compliment the set designer that she had disagreed with at the upcoming show.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A2,4,17,100,17JimNeutA2.mp3,Lois is going to compliment the set designer that she had disagreed with at the previous show.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A2,5,17,101,17JimV1A2.mp3,Lois is going to compliment the set designer that she had disagreed with at the previous show.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A2,6,17,102,17JimV2A2.mp3,Lois is going to compliment the set designer that she had disagreed with at the previous show.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A1,1,18,103,18JimNeutA1.mp3,Daniel is going to ignore the panelist that he had interrupted in the next discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A1,2,18,104,18JimV1A1.mp3,Daniel is going to ignore the panelist that he had interrupted in the next discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A1,3,18,105,18JimV2A1.mp3,Daniel is going to ignore the panelist that he had interrupted in the next discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A2,4,18,106,18JimNeutA2.mp3,Daniel is going to ignore the panelist that he had interrupted in the last discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A2,5,18,107,18JimV1A2.mp3,Daniel is going to ignore the panelist that he had interrupted in the last discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A2,6,18,108,18JimV2A2.mp3,Daniel is going to ignore the panelist that he had interrupted in the last discussion.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A1,1,19,109,19JimNeutA1.mp3,Joseph is going to reassure the employee that he had chastised at tomorrow’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A1,2,19,110,19JimV1A1.mp3,Joseph is going to reassure the employee that he had chastised at tomorrow’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A1,3,19,111,19JimV2A1.mp3,Joseph is going to reassure the employee that he had chastised at tomorrow’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A2,4,19,112,19JimNeutA2.mp3,Joseph is going to reassure the employee that he had chastised at yesterday’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A2,5,19,113,19JimV1A2.mp3,Joseph is going to reassure the employee that he had chastised at yesterday’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A2,6,19,114,19JimV2A2.mp3,Joseph is going to reassure the employee that he had chastised at yesterday’s coffee break.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A1,1,20,115,20JimNeutA1.mp3,Denise is going to greet the relative that she had complained about at the upcoming picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A1,2,20,116,20JimV1A1.mp3,Denise is going to greet the relative that she had complained about at the upcoming picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A1,3,20,117,20JimV2A1.mp3,Denise is going to greet the relative that she had complained about at the upcoming picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A2,4,20,118,20JimNeutA2.mp3,Denise is going to greet the relative that she had complained about at the previous picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A2,5,20,119,20JimV1A2.mp3,Denise is going to greet the relative that she had complained about at the previous picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A2,6,20,120,20JimV2A2.mp3,Denise is going to greet the relative that she had complained about at the previous picnic.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A1,1,21,121,21JimNeutA1.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the next court session.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A1,2,21,122,21JimV1A1.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the next court session.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A1,3,21,123,21JimV2A1.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the next court session.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A2,4,21,124,21JimNeutA2.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the last court session.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A2,5,21,125,21JimV1A2.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the last court session.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A2,6,21,126,21JimV2A2.mp3,Nicholas is going to cross-examine the witness that he had taken notes on during the last court session.,Please rate how natural Anne's sentence sounds.
+jimmy,4,Neut,A1,1,22,127,22JimNeutA1.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the next shift.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V1,A1,2,22,128,22JimV1A1.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the next shift.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V2,A1,3,22,129,22JimV2A1.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the next shift.,Please rate how natural Anne's sentence sounds.
+jimmy,1,Neut,A2,4,22,130,22JimNeutA2.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the last shift.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V1,A2,5,22,131,22JimV1A2.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the last shift.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V2,A2,6,22,132,22JimV2A2.mp3,Janice is going to fire the busboy that she had caught stealing at the start of the last shift.,Please rate how natural Anne's sentence sounds.
+jimmy,5,Neut,A1,1,23,133,23JimNeutA1.mp3,Robert is going to praise the candidate that he had been introduced to at the next fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,6,V1,A1,2,23,134,23JimV1A1.mp3,Robert is going to praise the candidate that he had been introduced to at the next fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V2,A1,3,23,135,23JimV2A1.mp3,Robert is going to praise the candidate that he had been introduced to at the next fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,2,Neut,A2,4,23,136,23JimNeutA2.mp3,Robert is going to praise the candidate that he had been introduced to at the last fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,3,V1,A2,5,23,137,23JimV1A2.mp3,Robert is going to praise the candidate that he had been introduced to at the last fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V2,A2,6,23,138,23JimV2A2.mp3,Robert is going to praise the candidate that he had been introduced to at the last fund-raising dinner.,Please rate how natural Anne's sentence sounds.
+jimmy,6,Neut,A1,1,24,139,24JimNeutA1.mp3,Michelle is going to discuss the pop star that she had worked with during next week’s media event.,Please rate how natural Anne's sentence sounds.
+jimmy,1,V1,A1,2,24,140,24JimV1A1.mp3,Michelle is going to discuss the pop star that she had worked with during next week’s media event.,Please rate how natural Anne's sentence sounds.
+jimmy,2,V2,A1,3,24,141,24JimV2A1.mp3,Michelle is going to discuss the pop star that she had worked with during next week’s media event.,Please rate how natural Anne's sentence sounds.
+jimmy,3,Neut,A2,4,24,142,24JimNeutA2.mp3,Michelle is going to discuss the pop star that she had worked with during last week’s media event.,Please rate how natural Anne's sentence sounds.
+jimmy,4,V1,A2,5,24,143,24JimV1A2.mp3,Michelle is going to discuss the pop star that she had worked with during last week’s media event.,Please rate how natural Anne's sentence sounds.
+jimmy,5,V2,A2,6,24,144,24JimV2A2.mp3,Michelle is going to discuss the pop star that she had worked with during last week’s media event.,Please rate how natural Anne's sentence sounds.

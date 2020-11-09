@@ -1,0 +1,193 @@
+﻿SubExp,Group,Cond1,Cond2,Cond3,Condition,Context,Item,StimAnt,StimResp,Audiostim,QUD
+SI3,1,Cleft,NonIsland,PP,1,1,1,There were many posters in the music store.,"Yeah, it was Katy Perry of whom there were many posters in the music store.",1AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,NonIsland,PP,1,2,2,There were several photos at the movie theater.,"Yeah, it was Kate Winslet of whom there were several photos at the movie theater.",2AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,NonIsland,PP,1,3,3,There were two paintings in the politician's office.,"Yeah, it was George W. Bush of whom there were two paintings in the politician's office.",3AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,NonIsland,PP,1,4,4,There were some samples on the album.,"Yeah, it was Rihanna of whom there were some samples on the album.",4AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,NonIsland,PP,1,5,5,There were four videos on the campaign website.,"Yeah, it was Bill Clinton of whom there were four videos on the campaign website.",5AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,NonIsland,PP,1,6,6,There were four drawings on the fan website.,"Yeah, it was Justin Bieber of whom there were four drawings on the fan website.",6AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,NonIsland,PP,1,7,7,There were five unflattering pictures in the tabloids.,"Yeah, it was Adele of whom there were five unflattering pictures in the tabloids.",7AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,NonIsland,PP,1,8,8,There were several statues in the museum.,"Yeah, it was Abraham Lincoln of whom there were several statues in the museum.",8AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,NonIsland,PP,1,9,9,There were many masks in the artist's studio.,"Yeah, it was Richard Nixon of whom there were many masks in the artist's studio.",9AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,NonIsland,PP,1,10,10,There were a few images on the CD album cover.,"Yeah, it was Beyoncé of whom there were a few images on the CD album cover.",10AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,NonIsland,PP,1,11,11,There were five mug shots in the book about early rock and roll.,"Yeah, it was Elvis Presley of whom there were five mug shots in the book about early rock and roll.",11AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,NonIsland,PP,1,12,12,There were many amusing sketches in the movie's storyboards.,"Yeah, it was Tom Cruise of whom there were many amusing sketches in the movie's storyboards.",12AntNI_CLNIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,NonIsland,PP,1,13,13,There were three poems in the literary anthology.,"Yeah, it was Aphrodite about whom there were three poems in the literary anthology.",13AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,NonIsland,PP,1,14,14,There were several t.v. shows on the fall lineup.,"Yeah, it was Marilyn Monroe about whom there were several t.v. shows on the fall lineup.",14AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,NonIsland,PP,1,15,15,There were four biographies in the library.,"Yeah, it was Albert Einstein about whom there were four biographies in the library.",15AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,NonIsland,PP,1,16,16,There were two uplifting stories in this month's Sports Illustrated.,"Yeah, it was Serena Williams about whom there were two uplifting stories in this month's Sports Illustrated.",16AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Cleft,NonIsland,PP,1,17,17,There were a few rumors in this week's National Enquirer.,"Yeah, it was Madonna about whom there were a few rumors in this week's National Enquirer.",17AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,NonIsland,PP,1,18,18,There were some shocking reports in the evening news.,"Yeah, it was Bernie Sanders about whom there were some shocking reports in the evening news.",18AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,NonIsland,PP,1,19,19,There were three books on the syllabus.,"Yeah, it was Joseph Stalin about whom there were three books on the syllabus.",19AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,NonIsland,PP,1,20,20,There were some documentaries on the film festival schedule.,"Yeah, it was Audrey Hepburn about whom there were some documentaries on the film festival schedule.",20AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,NonIsland,PP,1,21,21,There were two interesting articles in the local newspaper.,"Yeah, it was Ruth Bader Ginsburg about whom there were two interesting articles in the local newspaper.",21AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,NonIsland,PP,1,22,22,There were a few funny jokes on the radio program.,"Yeah, it was Ed Sheeran about whom there were a few funny jokes on the radio program.",22AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,NonIsland,PP,1,23,23,There were five lies in the interview.,"Yeah, it was George Michael about whom there were five lies in the interview.",23AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,NonIsland,PP,1,24,24,There were three memos in the diplomatic files.,"Yeah, it was Kim Jong Un about whom there were three memos in the diplomatic files.",24AntNI_CLNIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,NonIsland,PP,2,1,25,There were many posters in the music store.,"Yeah, of Katy Perry.",1AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,NonIsland,PP,2,2,26,There were several photos at the movie theater.,"Yeah, of Kate Winslet.",2AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,NonIsland,PP,2,3,27,There were two paintings in the politician's office.,"Yeah, of George W. Bush.",3AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,NonIsland,PP,2,4,28,There were some samples on the album.,"Yeah, of Rihanna.",4AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,NonIsland,PP,2,5,29,There were four videos on the campaign website.,"Yeah, of Bill Clinton.",5AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,NonIsland,PP,2,6,30,There were four drawings on the fan website.,"Yeah, of Justin Bieber.",6AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,NonIsland,PP,2,7,31,There were five unflattering pictures in the tabloids.,"Yeah, of Adele.",7AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,NonIsland,PP,2,8,32,There were several statues in the museum.,"Yeah, of Abraham Lincoln.",8AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,NonIsland,PP,2,9,33,There were many masks in the artist's studio.,"Yeah, of Richard Nixon.",9AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,NonIsland,PP,2,10,34,There were a few images on the CD album cover.,"Yeah, of Beyoncé.",10AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,NonIsland,PP,2,11,35,There were five mug shots in the book about early rock and roll.,"Yeah, of Elvis Presley.",11AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,NonIsland,PP,2,12,36,There were many amusing sketches in the movie's storyboards.,"Yeah, of Tom Cruise.",12AntNI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,NonIsland,PP,2,13,37,There were three poems in the literary anthology.,"Yeah, about Aphrodite.",13AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,NonIsland,PP,2,14,38,There were several t.v. shows on the fall lineup.,"Yeah, about Marilyn Monroe.",14AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,NonIsland,PP,2,15,39,There were four biographies in the library.,"Yeah, about Albert Einstein.",15AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,NonIsland,PP,2,16,40,There were two uplifting stories in this month's Sports Illustrated.,"Yeah, about Serena Williams.",16AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,NonIsland,PP,2,17,41,There were a few rumors in this week's National Enquirer.,"Yeah, about Madonna.",17AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,NonIsland,PP,2,18,42,There were some shocking reports in the evening news.,"Yeah, about Bernie Sanders.",18AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,NonIsland,PP,2,19,43,There were three books on the syllabus.,"Yeah, about Joseph Stalin.",19AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,NonIsland,PP,2,20,44,There were some documentaries on the film festival schedule.,"Yeah, about Audrey Hepburn.",20AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,NonIsland,PP,2,21,45,There were two interesting articles in the local newspaper.,"Yeah, about Ruth Bader Ginsburg.",21AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,NonIsland,PP,2,22,46,There were a few funny jokes on the radio program.,"Yeah, about Ed Sheeran.",22AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,NonIsland,PP,2,23,47,There were five lies in the interview.,"Yeah, about George Michael.",23AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,NonIsland,PP,2,24,48,There were three memos in the diplomatic files.,"Yeah, about Kim Jong Un.",24AntNI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,Island,PP,3,1,49,Many posters were in the music store.,"Yeah, it was Katy Perry of whom many posters were in the music store.",1AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,Island,PP,3,2,50,Several photos were at the movie theater.,"Yeah, it was Kate Winslet of whom several photos were at the movie theater.",2AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,Island,PP,3,3,51,Two paintings were in the politician's office.,"Yeah, it was George W. Bush of whom two paintings were in the politician's office.",3AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,Island,PP,3,4,52,Some samples were on the album.,"Yeah, it was Rihanna of whom some samples were on the album.",4AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,Island,PP,3,5,53,Four videos were on the campaign website.,"Yeah, it was Bill Clinton of whom four videos were on the campaign website.",5AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,Island,PP,3,6,54,Four drawings were on the fan website.,"Yeah, it was Justin Bieber of whom four drawings were on the fan website.",6AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,Island,PP,3,7,55,Five unflattering pictures were in the tabloids.,"Yeah, it was Adele of whom five unflattering pictures were in the tabloids.",7AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,Island,PP,3,8,56,Several statues were in the museum.,"Yeah, it was Abraham Lincoln of whom several statues were in the museum.",8AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,Island,PP,3,9,57,Many masks were in the artist's studio.,"Yeah, it was Richard Nixon of whom many masks were in the artist's studio.",9AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,Island,PP,3,10,58,A few images were on the CD album cover.,"Yeah, it was Beyoncé of whom a few images were on the CD album cover.",10AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,Island,PP,3,11,59,Five mug shots were in the book about early rock and roll.,"Yeah, it was Elvis Presley of whom five mug shots were in the book about early rock and roll.",11AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,Island,PP,3,12,60,Many amusing sketches were in the movie's storyboards.,"Yeah, it was Tom Cruise of whom many amusing sketches were in the movie's storyboards.",12AntI_CLIPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,Island,PP,3,13,61,Three poems were in the literary anthology.,"Yeah, it was Aphrodite about whom three poems were in the literary anthology.",13AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,Island,PP,3,14,62,Several t.v. shows were on the fall lineup.,"Yeah, it was Marilyn Monroe about whom several t.v. shows were on the fall lineup.",14AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Cleft,Island,PP,3,15,63,Four biographies were in the library.,"Yeah, it was Albert Einstein about whom four biographies were in the library.",15AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,Island,PP,3,16,64,Two uplifting stories were in this month's Sports Illustrated.,"Yeah, it was Serena Williams about whom two uplifting stories were in this month's Sports Illustrated.",16AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,Island,PP,3,17,65,A few rumors were in this week's National Enquirer.,"Yeah, it was Madonna about whom a few rumors were in this week's National Enquirer.",17AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,Island,PP,3,18,66,Some shocking reports were in the evening news.,"Yeah, it was Bernie Sanders about whom some shocking reports were in the evening news.",18AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,Island,PP,3,19,67,Three books were on the syllabus.,"Yeah, it was Joseph Stalin about whom three books were on the syllabus.",19AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,Island,PP,3,20,68,Some documentaries were on the film festival schedule.,"Yeah, it was Audrey Hepburn about whom some documentaries were on the film festival schedule.",20AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,Island,PP,3,21,69,Two interesting articles were in the local newspaper.,"Yeah, it was Ruth Bader Ginsburg about whom two interesting articles were in the local newspaper.",21AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,Island,PP,3,22,70,A few funny jokes were on the radio program.,"Yeah, it was Ed Sheeran about whom a few funny jokes were on the radio program.",22AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Cleft,Island,PP,3,23,71,Five lies were in the interview.,"Yeah, it was George Michael about whom five lies were in the interview.",23AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,Island,PP,3,24,72,Three memos were in the diplomatic files.,"Yeah, it was Kim Jong Un about whom three memos were in the diplomatic files.",24AntI_CLIPP.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,Island,PP,4,1,73,Many posters were in the music store.,"Yeah, of Katy Perry.",1AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,Island,PP,4,2,74,Several photos were at the movie theater.,"Yeah, of Kate Winslet.",2AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,Island,PP,4,3,75,Two paintings were in the politician's office.,"Yeah, of George W. Bush.",3AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,Island,PP,4,4,76,Some samples were on the album.,"Yeah, of Rihanna.",4AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,Island,PP,4,5,77,Four videos were on the campaign website.,"Yeah, of Bill Clinton.",5AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,Island,PP,4,6,78,Four drawings were on the fan website.,"Yeah, of Justin Bieber.",6AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,Island,PP,4,7,79,Five unflattering pictures were in the tabloids.,"Yeah, of Adele.",7AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,Island,PP,4,8,80,Several statues were in the museum.,"Yeah, of Abraham Lincoln.",8AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,Island,PP,4,9,81,Many masks were in the artist's studio.,"Yeah, of Richard Nixon.",9AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,Island,PP,4,10,82,A few images were on the CD album cover.,"Yeah, of Beyoncé.",10AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,Island,PP,4,11,83,Five mug shots were in the book about early rock and roll.,"Yeah, of Elvis Presley.",11AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,Island,PP,4,12,84,Many amusing sketches were in the movie's storyboards.,"Yeah, of Tom Cruise.",12AntI_StrPP.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,Island,PP,4,13,85,Three poems were in the literary anthology.,"Yeah, about Aphrodite.",13AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,Island,PP,4,14,86,Several t.v. shows were on the fall lineup.,"Yeah, about Marilyn Monroe.",14AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,Island,PP,4,15,87,Four biographies were in the library.,"Yeah, about Albert Einstein.",15AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,Island,PP,4,16,88,Two uplifting stories were in this month's Sports Illustrated.,"Yeah, about Serena Williams.",16AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,Island,PP,4,17,89,A few rumors were in this week's National Enquirer.,"Yeah, about Madonna.",17AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,Island,PP,4,18,90,Some shocking reports were in the evening news.,"Yeah, about Bernie Sanders.",18AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,Island,PP,4,19,91,Three books were on the syllabus.,"Yeah, about Joseph Stalin.",19AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,Island,PP,4,20,92,Some documentaries were on the film festival schedule.,"Yeah, about Audrey Hepburn.",20AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,Island,PP,4,21,93,Two interesting articles were in the local newspaper.,"Yeah, about Ruth Bader Ginsburg.",21AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,Island,PP,4,22,94,A few funny jokes were on the radio program.,"Yeah, about Ed Sheeran.",22AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,Island,PP,4,23,95,Five lies were in the interview.,"Yeah, about George Michael.",23AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,Island,PP,4,24,96,Three memos were in the diplomatic files.,"Yeah, about Kim Jong Un.",24AntI_StrPP.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,NonIsland,PS,5,1,97,There were many posters in the music store.,"Yeah, it was Katy Perry who there were many posters of in the music store.",1AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,NonIsland,PS,5,2,98,There were several photos at the movie theater.,"Yeah, it was Kate Winslet who there were several photos of at the movie theater.",2AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,NonIsland,PS,5,3,99,There were two paintings in the politician's office.,"Yeah, it was George W. Bush who there were two paintings of in the politician's office.",3AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,NonIsland,PS,5,4,100,There were some samples on the album.,"Yeah, it was Rihanna who there were some samples of on the album.",4AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,NonIsland,PS,5,5,101,There were four videos on the campaign website.,"Yeah, it was Bill Clinton who there were four videos of on the campaign website.",5AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,NonIsland,PS,5,6,102,There were four drawings on the fan website.,"Yeah, it was Justin Bieber who there were four drawings of on the fan website.",6AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,NonIsland,PS,5,7,103,There were five unflattering pictures in the tabloids.,"Yeah, it was Adele who there were five unflattering pictures of in the tabloids.",7AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,NonIsland,PS,5,8,104,There were several statues in the museum.,"Yeah, it was Abraham Lincoln who there were several statues of in the museum.",8AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,NonIsland,PS,5,9,105,There were many masks in the artist's studio.,"Yeah, it was Richard Nixon who there were many masks of in the artist's studio.",9AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,NonIsland,PS,5,10,106,There were a few images on the CD album cover.,"Yeah, it was Beyoncé who there were a few images of on the CD album cover.",10AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,NonIsland,PS,5,11,107,There were five mug shots in the book about early rock and roll.,"Yeah, it was Elvis Presley who there were five mug shots of in the book about early rock and roll.",11AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,NonIsland,PS,5,12,108,There were many amusing sketches in the movie's storyboards.,"Yeah, it was Tom Cruise who there were many amusing sketches of in the movie's storyboards.",12AntNI_CLNIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,NonIsland,PS,5,13,109,There were three poems in the literary anthology.,"Yeah, it was Aphrodite who there were three poems about in the literary anthology.",13AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,NonIsland,PS,5,14,110,There were several t.v. shows on the fall lineup.,"Yeah, it was Marilyn Monroe who there were several t.v. shows about on the fall lineup.",14AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,NonIsland,PS,5,15,111,There were four biographies in the library.,"Yeah, it was Albert Einstein who there were four biographies about in the library.",15AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,NonIsland,PS,5,16,112,There were two uplifting stories in this month's Sports Illustrated.,"Yeah, it was Serena Williams who there were two uplifting stories about in this month's Sports Illustrated.",16AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,NonIsland,PS,5,17,113,There were a few rumors in this week's National Enquirer.,"Yeah, it was Madonna who there were a few rumors about in this week's National Enquirer.",17AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,NonIsland,PS,5,18,114,There were some shocking reports in the evening news.,"Yeah, it was Bernie Sanders who there were some shocking reports about in the evening news.",18AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,NonIsland,PS,5,19,115,There were three books on the syllabus.,"Yeah, it was Joseph Stalin who there were three books about on the syllabus.",19AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,NonIsland,PS,5,20,116,There were some documentaries on the film festival schedule.,"Yeah, it was Audrey Hepburn who there were some documentaries about on the film festival schedule.",20AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Cleft,NonIsland,PS,5,21,117,There were two interesting articles in the local newspaper.,"Yeah, it was Ruth Bader Ginsburg who there were two interesting articles about in the local newspaper.",21AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,NonIsland,PS,5,22,118,There were a few funny jokes on the radio program.,"Yeah, it was Ed Sheeran who there were a few funny jokes about on the radio program.",22AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,NonIsland,PS,5,23,119,There were five lies in the interview.,"Yeah, it was George Michael who there were five lies about in the interview.",23AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,NonIsland,PS,5,24,120,There were three memos in the diplomatic files.,"Yeah, it was Kim Jong Un who there were three memos about in the diplomatic files.",24AntNI_CLNIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,NonIsland,PS,6,1,121,There were many posters in the music store.,"Yeah, Katy Perry.",1AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,NonIsland,PS,6,2,122,There were several photos at the movie theater.,"Yeah, Kate Winslet.",2AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,NonIsland,PS,6,3,123,There were two paintings in the politician's office.,"Yeah, George W. Bush.",3AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,NonIsland,PS,6,4,124,There were some samples on the album.,"Yeah, Rihanna.",4AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,NonIsland,PS,6,5,125,There were four videos on the campaign website.,"Yeah, Bill Clinton.",5AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,NonIsland,PS,6,6,126,There were four drawings on the fan website.,"Yeah, Justin Bieber.",6AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,NonIsland,PS,6,7,127,There were five unflattering pictures in the tabloids.,"Yeah, Adele.",7AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,NonIsland,PS,6,8,128,There were several statues in the museum.,"Yeah, Abraham Lincoln.",8AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,NonIsland,PS,6,9,129,There were many masks in the artist's studio.,"Yeah, Richard Nixon.",9AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,NonIsland,PS,6,10,130,There were a few images on the CD album cover.,"Yeah, Beyoncé.",10AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,NonIsland,PS,6,11,131,There were five mug shots in the book about early rock and roll.,"Yeah, Elvis Presley.",11AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,NonIsland,PS,6,12,132,There were many amusing sketches in the movie's storyboards.,"Yeah, Tom Cruise.",12AntNI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,NonIsland,PS,6,13,133,There were three poems in the literary anthology.,"Yeah, Aphrodite.",13AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,NonIsland,PS,6,14,134,There were several t.v. shows on the fall lineup.,"Yeah, Marilyn Monroe.",14AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,NonIsland,PS,6,15,135,There were four biographies in the library.,"Yeah, Albert Einstein.",15AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,NonIsland,PS,6,16,136,There were two uplifting stories in this month's Sports Illustrated.,"Yeah, Serena Williams.",16AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,NonIsland,PS,6,17,137,There were a few rumors in this week's National Enquirer.,"Yeah, Madonna.",17AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,NonIsland,PS,6,18,138,There were some shocking reports in the evening news.,"Yeah, Bernie Sanders.",18AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,NonIsland,PS,6,19,139,There were three books on the syllabus.,"Yeah, Joseph Stalin.",19AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,NonIsland,PS,6,20,140,There were some documentaries on the film festival schedule.,"Yeah, Audrey Hepburn.",20AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,NonIsland,PS,6,21,141,There were two interesting articles in the local newspaper.,"Yeah, Ruth Bader Ginsburg.",21AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,NonIsland,PS,6,22,142,There were a few funny jokes on the radio program.,"Yeah, Ed Sheeran.",22AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,NonIsland,PS,6,23,143,There were five lies in the interview.,"Yeah, George Michael.",23AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,NonIsland,PS,6,24,144,There were three memos in the diplomatic files.,"Yeah, Kim Jong Un.",24AntNI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,Island,PS,7,1,145,Many posters were in the music store.,"Yeah, it was Katy Perry who many posters of were in the music store.",1AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,Island,PS,7,2,146,Several photos were at the movie theater.,"Yeah, it was Kate Winslet who several photos of were at the movie theater.",2AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,Island,PS,7,3,147,Two paintings were in the politician's office.,"Yeah, it was George W. Bush who two paintings of were in the politician's office.",3AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,Island,PS,7,4,148,Some samples were on the album.,"Yeah, it was Rihanna who some samples of were on the album.",4AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,Island,PS,7,5,149,Four videos were on the campaign website.,"Yeah, it was Bill Clinton who four videos of were on the campaign website.",5AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Cleft,Island,PS,7,6,150,Four drawings were on the fan website.,"Yeah, it was Justin Bieber who four drawings of were on the fan website.",6AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Cleft,Island,PS,7,7,151,Five unflattering pictures were in the tabloids.,"Yeah, it was Adele who five unflattering pictures of were in the tabloids.",7AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Cleft,Island,PS,7,8,152,Several statues were in the museum.,"Yeah, it was Abraham Lincoln who several statues of were in the museum.",8AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Cleft,Island,PS,7,9,153,Many masks were in the artist's studio.,"Yeah, it was Richard Nixon who many masks of were in the artist's studio.",9AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Cleft,Island,PS,7,10,154,A few images were on the CD album cover.,"Yeah, it was Beyoncé who a few images of were on the CD album cover.",10AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Cleft,Island,PS,7,11,155,Five mug shots were in the book about early rock and roll.,"Yeah, it was Elvis Presley who five mug shots of were in the book about early rock and roll.",11AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Cleft,Island,PS,7,12,156,Many amusing sketches were in the movie's storyboards.,"Yeah, it was Tom Cruise who many amusing sketches of were in the movie's storyboards.",12AntI_CLIPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Cleft,Island,PS,7,13,157,Three poems were in the literary anthology.,"Yeah, it was Aphrodite who three poems about were in the literary anthology.",13AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,Island,PS,7,14,158,Several t.v. shows were on the fall lineup.,"Yeah, it was Marilyn Monroe who several t.v. shows about were on the fall lineup.",14AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,Island,PS,7,15,159,Four biographies were in the library.,"Yeah, it was Albert Einstein who four biographies about were in the library.",15AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,Island,PS,7,16,160,Two uplifting stories were in this month's Sports Illustrated.,"Yeah, it was Serena Williams who two uplifting stories about were in this month's Sports Illustrated.",16AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Cleft,Island,PS,7,17,161,A few rumors were in this week's National Enquirer.,"Yeah, it was Madonna who a few rumors about were in this week's National Enquirer.",17AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Cleft,Island,PS,7,18,162,Some shocking reports were in the evening news.,"Yeah, it was Bernie Sanders who some shocking reports about were in the evening news.",18AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Cleft,Island,PS,7,19,163,Three books were on the syllabus.,"Yeah, it was Joseph Stalin who three books about were on the syllabus.",19AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Cleft,Island,PS,7,20,164,Some documentaries were on the film festival schedule.,"Yeah, it was Audrey Hepburn who some documentaries about were on the film festival schedule.",20AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Cleft,Island,PS,7,21,165,Two interesting articles were in the local newspaper.,"Yeah, it was Ruth Bader Ginsburg who two interesting articles about were in the local newspaper.",21AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Cleft,Island,PS,7,22,166,A few funny jokes were on the radio program.,"Yeah, it was Ed Sheeran who a few funny jokes about were on the radio program.",22AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Cleft,Island,PS,7,23,167,Five lies were in the interview.,"Yeah, it was George Michael who five lies about were in the interview.",23AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Cleft,Island,PS,7,24,168,Three memos were in the diplomatic files.,"Yeah, it was Kim Jong Un who three memos about were in the diplomatic files.",24AntI_CLIPS.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,Island,PS,8,1,169,Many posters were in the music store.,"Yeah, Katy Perry.",1AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,Island,PS,8,2,170,Several photos were at the movie theater.,"Yeah, Kate Winslet.",2AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,Island,PS,8,3,171,Two paintings were in the politician's office.,"Yeah, George W. Bush.",3AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,Island,PS,8,4,172,Some samples were on the album.,"Yeah, Rihanna.",4AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,Island,PS,8,5,173,Four videos were on the campaign website.,"Yeah, Bill Clinton.",5AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,5,Strip,Island,PS,8,6,174,Four drawings were on the fan website.,"Yeah, Justin Bieber.",6AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,6,Strip,Island,PS,8,7,175,Five unflattering pictures were in the tabloids.,"Yeah, Adele.",7AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,7,Strip,Island,PS,8,8,176,Several statues were in the museum.,"Yeah, Abraham Lincoln.",8AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,8,Strip,Island,PS,8,9,177,Many masks were in the artist's studio.,"Yeah, Richard Nixon.",9AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,1,Strip,Island,PS,8,10,178,A few images were on the CD album cover.,"Yeah, Beyoncé.",10AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,2,Strip,Island,PS,8,11,179,Five mug shots were in the book about early rock and roll.,"Yeah, Elvis Presley.",11AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,3,Strip,Island,PS,8,12,180,Many amusing sketches were in the movie's storyboards.,"Yeah, Tom Cruise.",12AntI_StrPS.MP3,Please rate how natural Anne's response sounds.
+SI3,4,Strip,Island,PS,8,13,181,Three poems were in the literary anthology.,"Yeah, Aphrodite.",13AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,Island,PS,8,14,182,Several t.v. shows were on the fall lineup.,"Yeah, Marilyn Monroe.",14AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,Island,PS,8,15,183,Four biographies were in the library.,"Yeah, Albert Einstein.",15AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,Island,PS,8,16,184,Two uplifting stories were in this month's Sports Illustrated.,"Yeah, Serena Williams.",16AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,8,Strip,Island,PS,8,17,185,A few rumors were in this week's National Enquirer.,"Yeah, Madonna.",17AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,1,Strip,Island,PS,8,18,186,Some shocking reports were in the evening news.,"Yeah, Bernie Sanders.",18AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,2,Strip,Island,PS,8,19,187,Three books were on the syllabus.,"Yeah, Joseph Stalin.",19AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,3,Strip,Island,PS,8,20,188,Some documentaries were on the film festival schedule.,"Yeah, Audrey Hepburn.",20AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,4,Strip,Island,PS,8,21,189,Two interesting articles were in the local newspaper.,"Yeah, Ruth Bader Ginsburg.",21AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,5,Strip,Island,PS,8,22,190,A few funny jokes were on the radio program.,"Yeah, Ed Sheeran.",22AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,6,Strip,Island,PS,8,23,191,Five lies were in the interview.,"Yeah, George Michael.",23AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
+SI3,7,Strip,Island,PS,8,24,192,Three memos were in the diplomatic files.,"Yeah, Kim Jong Un.",24AntI_StrPS.MP3,Please rate how natural Bill's response sounds.
