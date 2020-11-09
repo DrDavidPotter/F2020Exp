@@ -140,7 +140,7 @@ Template( "SI3.csv" ,
 
     SI3 => newTrial( "SI3" ,
 
-        newAudio("YEP", SI3.AudioStim)
+        newAudio("YEP", SI3.Audiostim)
 	        .play(),
 
         newText("<p></p>")
@@ -178,7 +178,7 @@ Template( "SI3.csv" ,
 	        .wait(getScale("score").test.selected())
         
     )
-    .log( "AudioStim" , SI3.AudioStim )
+    .log( "Audiostim" , SI3.Audiostim )
     .log( "StimAnt" , SI3.StimAnt )
     .log( "StimResp" , SI3.StimResp )
     .log("SubExp", SI3.SubExp)
@@ -186,6 +186,7 @@ Template( "SI3.csv" ,
     .log("Cond1", SI3.Cond1)
     .log("Cond2", SI3.Cond2)
     .log("Cond3", SI3.Cond3)
+    .log("Condition", SI3.Condition)
     .log("Context", SI3.Context)
     .log("Item", SI3.Item)
 )
@@ -197,7 +198,7 @@ Template( "Jimmyanswers.csv" ,
 
     Jimmy => newTrial( "Jimmy" ,
 
-        newAudio("YEP", Jimmy.AudioStim)
+        newAudio("YEP", Jimmy.Audiostim)
 	        .play(),
 
         newText("<p></p>")
@@ -235,13 +236,14 @@ Template( "Jimmyanswers.csv" ,
 	        .wait(getScale("score").test.selected())
         
     )
-    .log( "AudioStim" , Jimmy.AudioStim )
+    .log( "Audiostim" , Jimmy.Audiostim )
     .log( "Stim" , Jimmy.Stim )
     .log("SubExp", Jimmy.SubExp)
     .log("Group", Jimmy.Group)
     .log("Cond1", Jimmy.Cond1)
     .log("Cond2", Jimmy.Cond2)
     .log("Context", Jimmy.Context)
+    .log("Condition", Jimmy.Condition)
     .log("Item", Jimmy.Item)
 )
 
@@ -250,7 +252,7 @@ Template( "filleranswersRating.csv" ,
 
     FillersRating => newTrial( "FillersRating" ,
 
-        newAudio("YEP", FillersRating.AudioStim)
+        newAudio("YEP", FillersRating.Audiostim)
 	        .play(),
 
         newText("<p></p>")
@@ -288,7 +290,7 @@ Template( "filleranswersRating.csv" ,
 	        .wait(getScale("score").test.selected())
         
     )
-    .log( "AudioStim" , FillersRating.AudioStim )
+    .log( "Audiostim" , FillersRating.Audiostim )
     .log( "Stim" , FillersRating.Stim )
     .log("SubExp", FillersRating.SubExp)
     .log("Group", FillersRating.Group)
@@ -305,7 +307,7 @@ Template( "filleranswersFC.csv" ,
     FillersFC => newTrial( "FillersFC" ,
 
 
-        newAudio("YEP", FillersFC.AudioStim)
+        newAudio("YEP", FillersFC.Audiostim)
         	.play(),
         
         newText("<p></p>")
@@ -348,7 +350,7 @@ Template( "filleranswersFC.csv" ,
 	        .print()
 	        .wait(getScale("answer").test.selected())        
     )
-    .log( "AudioStim" , FillersFC.AudioStim )
+    .log( "Audiostim" , FillersFC.Audiostim )
     .log( "Stim" , FillersFC.Stim )
     .log( "AltA" , FillersFC.AltA )
     .log( "AltB" , FillersFC.AltB )    
@@ -370,7 +372,7 @@ Template( "WhAnswers.csv" ,
     Wh => newTrial( "Wh" ,
 
 
-        newAudio("YEP", Wh.AudioStim)
+        newAudio("YEP", Wh.Audiostim)
         	.play(),
         
         newText("<p></p>")
@@ -413,7 +415,7 @@ Template( "WhAnswers.csv" ,
 	        .print()
 	        .wait(getScale("answer").test.selected())        
     )
-    .log( "AudioStim" , Wh.AudioStim )
+    .log( "Audiostim" , Wh.Audiostim )
     .log( "Stim" , Wh.Stim )
     .log( "AltA" , Wh.AltA )
     .log( "AltB" , Wh.AltB )    
