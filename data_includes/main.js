@@ -6,9 +6,10 @@ PennController.ResetPrefix(null) // Shorten command names (keep this line here)
 
 // Show the 'intro' trial first, then all the 'experiment' trials in a random order
 // then send the results and finally show the trial labeled 'bye'
-Sequence( "intro", "testAudioCapability", "consent", "instructions", randomizeNoMoreThan(anyOf("SI3", "Jimmy", "FillersRating", "FillersFC", "WH"),2), "demo1","demo2","demo3","demo4", "demo5", "demo6", "demo7", "demo8", SendResults(), "bye" )
+Sequence( "intro", "preload-exp", "testAudioCapability", "consent", "instructions", randomizeNoMoreThan(anyOf("SI3", "Jimmy", "FillersRating", "FillersFC", "WH"),2), "demo1","demo2","demo3","demo4", "demo5", "demo6", "demo7", "demo8", SendResults(), "bye" )
 
-
+CheckPreloaded()
+	.label( "preload-exp")
 
 
 
@@ -33,7 +34,7 @@ Header(
 
 
 newTrial( "intro" ,
-    newText("<p>Thank you for participating in this study! Your participation is completely voluntary and anonymous. No data will be gathered that could identify you uniquely, and your responses will remain confidential.<p></p><p>In this survey, which should take no more than 45 minutes to complete, you will listen to sentences and short dialogues in English and then either answer a question about what you read or tell us how natural what you heard was.</p><p>We would like your response to reflect what an ordinary person would think about these sentences, based on how they sound.</p><p>Please enter your worker ID below and press Enter:</p>")
+    newText("<p>Thank you for participating in this study! Your participation is completely voluntary and anonymous. No data will be gathered that could identify you uniquely, and your responses will remain confidential.<p></p><p>In this survey, which should take no more than 45 minutes to complete, you will listen to sentences and short dialogues in English and then either answer a question about what you heard or tell us how natural what you heard was.</p><p>We would like your response to reflect what an ordinary person would think about these sentences, based on how they sound.</p><p>Please enter your worker ID below and press Enter:</p>")
     	.size(800,)
         .print(),
 
@@ -119,7 +120,7 @@ newTrial( "consent" ,
 
 
 newTrial( "instructions" ,
-    newText("<p>On each screen, you will see one or more sentences. In some of these sentences, some words will be in all CAPITAL letters, which is meant to indicate emphasis on that word.</p><p>After reading each sentence or set of sentences, you will be asked a question about what you just read. There are two types of questions you will read.<p></p><p>In some of these questions, we will ask you to complete an incomplete sentence, in whatever way seems most likely to you. There are many different ways these sentences could be completed. We are interested in what you think the most likely continuation of the sentence would be.</p> <p></p><p>In other questions, we will ask about the meaning of what you just read. We will present you with two possible answers to a question, and you should pick the one that best fits what you thought the sentence meant.</p><p> In general, please use your intuitions as a speaker of English in making your judgments, rather than of any rule you may have been taught. We're interested in how people actually use and understand language, rather than what is considered <i>proper</i> or <i>correct</i>. What matters to us is <i>your</i> judgments about language.</p><p>There will be 108 items in total, followed by a few demographic questions. A progress bar will appear on each screen to indicate your progress.</p>")
+    newText("<p>In this survey, you will be listening to a series of auditory recordings. In some of the recordings, you will hear two people, Anne and Bill, talking to each other. In others, you will hear just one person, either Bill or Anne. Please note that you will be able to listen to each recording only <b>once</b>, so please be sure to listen carefully.</p><p>After each recording, you will be asked a question about what you just heard. There are two types of questions you will hear.<p></p><p>In some of these questions, we will ask you to consider what Anne or Bill said, and then rate how natural it sounded, on a scale of one to seven. Some of these phrases will seem natural, and so should receive a high rating. A natural phrase is one that would seem unremarkable if you heard someone say it. Some of the other phrases will seem less natural, and so should be rated low. These less natural phrases would be surprising to hear, they might sound like a mistake, or they might just sound odd. Please use the whole scale; if a phrase sounds completely natural or completely unnatural, don’t be afraid to assign it a seven or a one.</p> <p></p><p>In other questions, we will ask about the meaning of what you just heard. We will present you with two possible answers to a question, and you should pick the one that best fits what you thought the sentence meant.</p><p> In general, please use your intuitions as a speaker of English in making your judgments, rather than of any rule you may have been taught. We're interested in how people actually use and understand language, rather than what is considered <i>proper</i> or <i>correct</i>.What matters to us is <i>your</i> judgments about language.</p><p>There will be 102 items in total, followed by a few demographic questions; these recordings will load at the start of the survey. This loading typically takes less than a minute, although how long it takes will depend on the speed of your internet connection. A counter on each screen will indicate your progress.</p>")
     	.size(800,)
         .print(),
 
@@ -151,7 +152,7 @@ Template( "SI3.csv" ,
 	    	.size(800,)
             .print(),
   
-        newScale("score", "1", "2", "3", "4", "5", "6", "7")
+        newScale("score", "(Least Natural) 1", "2", "3", "4", "5", "6", "7 (Most Natural)")
 	        .before(newText("left", "Rating "))
 	        .radio()
 	        .labelsPosition("top")
@@ -209,7 +210,7 @@ Template( "Jimmyanswers.csv" ,
 	    	.size(800,)
             .print(),
   
-        newScale("score", "1", "2", "3", "4", "5", "6", "7")
+        newScale("score", "(Least Natural) 1", "2", "3", "4", "5", "6", "7 (Most Natural)")
 	        .before(newText("left", "Rating "))
 	        .radio()
 	        .labelsPosition("top")
@@ -263,7 +264,7 @@ Template( "filleranswersRating.csv" ,
 	    	.size(800,)
             .print(),
   
-        newScale("score", "1", "2", "3", "4", "5", "6", "7")
+        newScale("score", "(Least Natural) 1", "2", "3", "4", "5", "6", "7 (Most Natural)")
 	        .before(newText("left", "Rating "))
 	        .radio()
 	        .labelsPosition("top")
